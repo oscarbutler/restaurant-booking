@@ -6,3 +6,9 @@ header {
         max-height: 40px;
         font-size: 10px;
 }
+
+.dining {
+    width: 100%;
+    /*filter: brightness(50%);*/
+    height: fit-content;
+}
